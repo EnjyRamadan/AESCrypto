@@ -11,6 +11,7 @@ This project is a **secure and user-friendly** AES encryption and decryption too
 - **Fast & Secure:** Real-time encryption and decryption without compromising security.
 - **User-Friendly Interface:** Simple and intuitive web UI for easy use.
 - **No Data Storage:** The website does not store any encrypted or decrypted data.
+- - **Shows Steps:** The website shows steps for encryption and description.
 
 ## How It Works
 
