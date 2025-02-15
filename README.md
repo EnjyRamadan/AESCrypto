@@ -51,5 +51,7 @@ The website will be available at `http://localhost:5000`.
 - This tool does **not store** encrypted or decrypted data.
 - Ensure you **keep a backup** of your original data before encryption.
 
+## GUI
 
+![Screenshot](Screenshot.png)
 
